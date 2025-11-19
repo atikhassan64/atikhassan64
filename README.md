@@ -14,11 +14,13 @@ Hi there! I’m <b>Atik Hassan</b>. I’m a <b>frontend-focused developer</b> sk
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) |
 </br>
 
+
 ## 📊 GitHub Stats Overview
 
 | 💡 Top Languages (Donut Chart) | 📈 GitHub Performance | 🔥 Contribution Streak |
 |:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik-hassan&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="170" /> | <img src="https://github-readme-stats.vercel.app/api?username=atik-hassan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" /> | <img src="https://streak-stats.demolab.com?user=atik-hassan&theme=tokyonight&hide_border=true" height="170" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikhassan64&layout=donut&theme=tokyonight&hide_border=true" height="170" /> | <img src="https://github-readme-stats.vercel.app/api?username=atikhassan64&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> | <img src="https://streak-stats.demolab.com?user=atikhassan64&theme=tokyonight&hide_border=true" height="170" /> |
+
 
 
 ### 📬 Let's Connect
@@ -32,7 +34,4 @@ You can also find me on:
 ✨ Fun fact: I love combining clean design with interactive web experiences.  
 Let's connect and build something amazing together! 🚀
 
-
-
-
-
+![](https://komarev.com/ghpvc/?username=atikhassan64&style=for-the-badge)
