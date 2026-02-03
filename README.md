@@ -28,6 +28,42 @@
 
 ---
 
+## 🎟️ Online Ticket Booking Platform
+
+🌐 **Live Site:**  
+👉 https://ticket-bari-3ae85.web.app
+
+
+### 🏠 User Interface (Homepage)
+
+![Ticket Bari Homepage](https://i.ibb.co.com/tPw2GFnK/Ticket-Bari-01.jpg)
+
+
+### 🛠️ Admin Dashboard
+
+![Ticket Bari Admin Dashboard](https://i.ibb.co.com/Rkvhg5cD/Dashboard.png)
+
+
+### 🛠️ Vendor Dashboard
+
+![Ticket Bari Vendor Dashboard](https://i.ibb.co.com/7NBsG898/vendor-dashboard.png)
+
+
+### 🛠️ User Dashboard
+
+![Ticket Bari User Dashboard](https://i.ibb.co.com/77gzTXB/User-Dashboard.png)
+
+### ✨ Key Features
+- Modern & responsive user interface
+- Online ticket booking system (Bus, Train, Air)
+- Firebase Authentication & JWT based security
+- Role-based access (Admin / Vendor / User)
+- Admin dashboard to manage users, tickets & vendors
+- Built with React.js, Tailwind CSS, Node.js, Express.js & MongoDB
+
+
+---
+
 ## 📬 Let's Connect
 
 I'm always open to discussing projects, collaborations, or exciting opportunities!  
