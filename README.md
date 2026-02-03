@@ -71,6 +71,7 @@ I'm always open to discussing projects, collaborations, or exciting opportunitie
 You can also find me on:
 - **Email**: atikhassant64@gmail.com
 - **Linkedin**: [Click Here](https://www.linkedin.com/in/atikhassan/)
+- **Portfolio**: [Click Here](https://atikhassan.vercel.app/)
 
 ✨ Fun fact: I love combining clean design with interactive web experiences.  
 Let's connect and build something amazing together! 🚀
