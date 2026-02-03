@@ -36,7 +36,7 @@
 
 ### 🏠 User Interface (Homepage)
 
-![Ticket Bari Homepage](https://i.ibb.co.com/tPw2GFnK/Ticket-Bari-01.jpg)
+![Ticket Bari Homepage](https://i.ibb.co.com/hRCFzrd0/Ticket-Bari-Home-page-01.jpg)
 
 
 ### 🛠️ Admin Dashboard
